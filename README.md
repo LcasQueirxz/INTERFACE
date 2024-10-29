@@ -21,4 +21,4 @@ Este projeto é uma implementação de um sistema de gestão que calcula o bônu
 - Desenvolvimento inicial do projeto por [Seu Nome Aqui].
 
 ## Diagrama
-![diagrama]()
+![diagrama](https://github.com/LcasQueirxz/INTERFACE/blob/main/image/Captura%20de%20Tela%202024-10-29%20%C3%A0s%2020.14.41.png)
