@@ -21,4 +21,4 @@ Este projeto é uma implementação de um sistema de gestão que calcula o bônu
 - Desenvolvimento inicial do projeto por [Seu Nome Aqui].
 
 ## Diagrama
-
+![diagrama]()
