@@ -1,4 +1,4 @@
-# Meu Projeto de Cálculo de Bônus
+# Cálculo de Bônus
 
 Este projeto é uma implementação de um sistema de gestão que calcula o bônus de diferentes tipos de funcionários.
 
